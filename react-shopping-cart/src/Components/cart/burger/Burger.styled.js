@@ -1,0 +1,32 @@
+import styled from 'styled-components';
+
+export const StyledBurger = styled.button`
+  position: absolute;
+  top:0%;
+  right:0%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  width: 4rem;
+  height: 2rem;
+  margin-top:10px;
+  background-color: black;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  z-index: 10;
+  
+  &:focus {
+    outline: none;
+  }
+  
+  div {
+    width: 2rem;
+    height: 0.25rem;
+    background: grey;
+    border-radius: 10px;
+    transition: all 0.3s linear;
+    position: relative;
+    transform-origin: 1px;
+  }
+`;

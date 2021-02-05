@@ -1,0 +1,21 @@
+.navmain {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 10vh;
+    background-color: cadetblue;
+    color: white;
+}
+
+.navmain__ul {
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.navmain__links {
+    list-style: none;
+    text-decoration: none;
+    color: white;
+}

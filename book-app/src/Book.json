@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "title": "Atlas of Human Anatomy for the Artist",
+        "price": "100",
+        "image": "https://img.thriftbooks.com/api/images/m/9873295e120d75ed234338284cdd6fe2fc4944e5.jpg",
+        "author": "Stephen Rogers Peck",
+        "rating": "1",
+        "category": "Art",
+        "description": "Stephen Rogers Peck's Atlas of Human Anatomy for the Artist remains unsurpassed as a manual for students. It includes sections on bones, muscles, surface anatomy, proportion, equilibrium, and locomotion."
+    },
+    {
+        "id": "2",  
+        "title": "The Wealthy Barber : Everyone's Common-Sense Guide to Becoming Financially Independent",
+        "price": "400",
+        "image": "https://m.media-amazon.com/images/I/41GOB9x522L._SL350_.jpg",
+        "author": "David Chilton",
+        "rating": "2",
+        "category": "Business",
+        "description": "David Chilton simplifies the complex puzzles of personal finance and helps you achieve financial independence."
+    },
+    {
+        "id": "3",  
+        "title": "The Wealthy Barber : Everyone's Common-Sense Guide to Becoming Financially Independent",
+        "price": "400",
+        "image": "https://m.media-amazon.com/images/I/41GOB9x522L._SL350_.jpg",
+        "author": "David Chilton",
+        "rating": "3",
+        "category": "Business",
+        "description": "David Chilton simplifies the complex puzzles of personal finance and helps you achieve financial independence."
+    },
+    {
+        "id": "4",  
+        "title": "The Wealthy Barber : Everyone's Common-Sense Guide to Becoming Financially Independent",
+        "price": "400",
+        "image": "https://m.media-amazon.com/images/I/41GOB9x522L._SL350_.jpg",
+        "author": "David Chilton",
+        "rating": "4",
+        "category": "Fictional",
+        "description": "David Chilton simplifies the complex puzzles of personal finance and helps you achieve financial independence."
+    }
+]  

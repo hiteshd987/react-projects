@@ -1,0 +1,41 @@
+.container-home {
+    background-color: rgb(41, 56, 92);
+    color: #fff;
+    height: 60vh;
+}
+
+.row-inner-section-first-left {
+    font-weight: bold;
+    /* margin: 70px 20px 20px 40px; */
+    margin: 70px 20px 20px 250px;
+    height: 10%;
+}
+
+.div-line {
+    width: 23rem;
+    height: 0.25rem;
+    margin-left: 100px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin: 0px 0px 0px 280px;
+}
+
+.row-section-first-right {
+    margin-top: 30px;
+    height: 80%;
+}
+
+.img-first-right {
+    height: 100%;
+}
+
+.btn-inner-getStarted {
+    background-color: #fff;
+    color: #000;
+    border-radius: 12px;
+}
+
+.btn-inner-getStarted:hover {
+    background-color: #fff;
+    color: #000;
+}

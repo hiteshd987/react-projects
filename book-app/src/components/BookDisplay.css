@@ -1,0 +1,26 @@
+.row-book-display{
+    display: flex;
+    flex-direction: row;
+    background-color: gray;
+    color: white;
+}
+
+.col-book-display {
+    border: 2px solid black;
+}
+
+.div-actions-btn{
+    opacity: 0;
+}
+
+.row-book-display:hover .div-actions-btn{
+    opacity: 1;
+}
+
+.div-actions-btn a{
+    color: #222;
+}
+
+.div-actions-btn a:hover{
+    color: #222;
+}

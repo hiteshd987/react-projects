@@ -1,0 +1,25 @@
+body {
+    background-color: grey;
+}
+
+.products-column {
+    border: 5px solid aqua;
+}
+
+.products-info {
+    text-align: center;
+}
+
+/* 
+.products-image {
+    width: 4rem;
+} */
+
+.products-addToCart {
+    width: 600px;
+}
+
+.products-addToCartBtn {
+    width: 100%;
+    background-color: black;
+}

@@ -1,0 +1,16 @@
+.container-book-main{
+    margin-top: 50px;
+}
+
+.rating-dropdown {
+    float: right;
+}
+
+.row-book-main{
+    background-color: yellow;
+    color: black;
+}
+
+.col-book-main{
+    border: 2px solid black;
+}
