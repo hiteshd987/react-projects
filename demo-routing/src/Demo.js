@@ -280,7 +280,7 @@
 // console.log("values: "+values);  
 // console.log("answer: "+ans);
 
-
+ 
 // var fruits = ["Banana", "Orange", "Lemon", "Apple", "Mango"];
 // var myBest = fruits.slice(-3, -1);
 // console.log("fruits: "+fruits);
@@ -411,7 +411,7 @@
 // console.log(obj1.c, obj1.b, obj1.a);
 
 
-// console.log(+20+30+"10");
+// console.log(20+30+"10");
 
 // console.log(navigator.appVersion);
   
